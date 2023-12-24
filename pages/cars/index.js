@@ -8,7 +8,6 @@ function Details() {
     <div>
       <SearchBar />
       <Categories />
-
       <CarsPage data={carsData} />
     </div>
   );
